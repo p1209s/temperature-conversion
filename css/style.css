@@ -1,0 +1,15 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.card {
+    width: 18rem;
+    margin: 100px auto;
+}
+
+.celsius textarea,
+.fahrenheit textarea {
+    resize: none;
+}
